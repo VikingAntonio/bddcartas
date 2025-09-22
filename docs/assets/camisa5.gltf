@@ -258,9 +258,9 @@
             "uri" : "Material_001_normal.png"
         },
         {
-            "mimeType" : "image/png",
+            "mimeType" : "image/jpeg",
             "name" : "text4",
-            "uri" : "text4.png"
+            "uri" : "text4.jpg"
         },
         {
             "mimeType" : "image/png",
